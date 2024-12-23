@@ -45,3 +45,7 @@ logs/
 # Cache directories
 .cache/
 .npm/
+.node_repl_history
+
+# package-lock.json
+package-lock.json
